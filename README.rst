@@ -1,4 +1,4 @@
-Newspaper3k: Article scraping & curation
+Public Council: Article scraping & curation
 ========================================
 
 .. image:: https://badge.fury.io/py/newspaper3k.svg
@@ -9,12 +9,8 @@ Newspaper3k: Article scraping & curation
         :target: http://travis-ci.org/codelucas/newspaper/
         :alt: Build status
 
-.. image:: https://coveralls.io/repos/github/codelucas/newspaper/badge.svg?branch=master
-        :target: https://coveralls.io/github/codelucas/newspaper
-        :alt: Coverage status
 
-
-Inspired by `requests`_ for its simplicity and powered by `lxml`_ for its speed:
+The public council is the python3 fork of `newspaper`_ which was inspired by `requests`_ for its simplicity and powered by `lxml`_ for its speed:
 
     "Newspaper is an amazing python library for extracting & curating articles."
     -- `tweeted by`_ Kenneth Reitz, Author of `requests`_
@@ -23,10 +19,6 @@ Inspired by `requests`_ for its simplicity and powered by `lxml`_ for its speed:
 
 .. _`tweeted by`: https://twitter.com/kennethreitz/status/419520678862548992
 .. _`The Changelog`: http://thechangelog.com/newspaper-delivers-instapaper-style-article-extraction/
-
-**Newspaper is a Python3 library**! Or, view our **deprecated and buggy** `Python2 branch`_
-
-.. _`Python2 branch`: https://github.com/codelucas/newspaper/tree/python-2-head
 
 A Glance:
 ---------
@@ -373,3 +365,4 @@ to talk about the future of this library and news extraction in general!
 .. _`lxml`: http://lxml.de/
 .. _`requests`: https://github.com/kennethreitz/requests
 .. _`Parse.ly`: http://parse.ly
+.. _`newspaper`: https://github.com/codelucas/newspaper
